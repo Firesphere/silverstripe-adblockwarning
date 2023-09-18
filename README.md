@@ -3,6 +3,12 @@
 Help your users understand the importance of using an adblocker, by alerting
 those that don't have one.
 
+## Demo
+
+Disable your adblocker and visit my website:
+
+https://firesphere.dev
+
 ## Defaults
 
 The included template is based on Bootstrap 5.
