@@ -12,3 +12,15 @@
     pointer-events: none !important;
   }
 }
+
+@media (max-width: 576px) {
+  #adblock.abw-note {
+    .toast {
+      display: none !important;
+      &.show {
+        display: none !important;
+      }
+    }
+
+  }
+}
