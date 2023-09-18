@@ -33,6 +33,10 @@ Copy the contents of the Templates folder to your theme or app, and modify to yo
 
 Contents of heading/notification are editable via the SiteConfig.
 
+# Thanks
+
+[Beko Pharm](https://social.tchncs.de/@bekopharm/111082075749714822)
+
 # License
 
 This module is published under BSD 3-clause license, although these are not in the actual classes, the license does apply:
