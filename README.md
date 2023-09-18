@@ -9,6 +9,8 @@ Disable your adblocker and visit my website:
 
 https://firesphere.dev
 
+![](docs/assets/notification-demo.png)
+
 ## Defaults
 
 The included template is based on Bootstrap 5.
