@@ -2,7 +2,12 @@
   display: block !important;
   pointer-events: all !important;
 
-  &.d-none {
+  &.d-none,
+  &.hidden,
+  &.d-none,
+  &.invisible,
+  &.dontshow,
+  &.noshow {
     display: none !important;
     pointer-events: none !important;
   }
