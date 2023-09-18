@@ -1,0 +1,6 @@
+PageController:
+  extensions:
+    - Firesphere\AdblockWarning\Extensions\PageControllerExtension
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - Firesphere\AdblockWarning\Extensions\SiteConfigExtension
