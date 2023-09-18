@@ -17,7 +17,7 @@ class PageControllerExtension extends Extension
     protected $adblockWarning = '';
     public function onAfterInit()
     {
-        if (!self::$enabled) {
+        if (self::$enabled) {
             Requirements::css('firesphere/adblockwarning:dist/css/nativeads.js.css');
             $this->adblockWarning = SSViewer::execute_template('Firesphere\\Includes\\AdblockWarning', []);
         }
