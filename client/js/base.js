@@ -1,4 +1,4 @@
-if (window.matchMedia('(max-width: 620px)').matches) {
+if (window.matchMedia('(min-width: 620px)').matches) {
     const advert = document.getElementById('adblock');
     const hideClasses = [
         'hidden',
