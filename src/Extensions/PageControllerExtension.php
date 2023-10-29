@@ -10,6 +10,8 @@ use SilverStripe\View\SSViewer;
 
 /**
  * @mixin PageController owner
+ *
+ * @package Firesphere\NoAdblockWarning
  */
 class PageControllerExtension extends Extension
 {

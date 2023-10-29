@@ -9,6 +9,13 @@ use SilverStripe\ORM\DataExtension;
 use SilverStripe\ORM\FieldType\DBHTMLText;
 use SilverStripe\ORM\FieldType\DBVarchar;
 
+/**
+ * class Firesphere\AdblockWarning\Extensions\SiteConfigExtension
+ *
+ * @mixin SiteConfig
+ *
+ * @package Firesphere\NoAdblockWarning
+ */
 class SiteConfigExtension extends DataExtension
 {
     private static $db = [
