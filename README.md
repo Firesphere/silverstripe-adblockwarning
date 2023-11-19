@@ -1,3 +1,7 @@
+# Repository moved
+
+https://codeberg.org/Firesphere/silverstripe-adblockwarning
+
 # Adblock Warning for Silverstripe
 
 Help your users understand the importance of using an adblocker, by alerting
